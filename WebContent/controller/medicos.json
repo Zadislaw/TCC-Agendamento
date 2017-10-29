@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 [{"crmMedico":1,"nmMedico":"Roberto","nmEspecialidade":"Pediatra1"},{"crmMedico":2,"nmMedico":"Roberta","nmEspecialidade":"Pediatra2"},{"crmMedico":3,"nmMedico":"Robert","nmEspecialidade":"Pediatra3"}]
+=======
+{
+	"medicos":
+	[
+            {"crmMedico":"1","nmMedico":"Jorgen" ,"nmEspecialidade":"Oftalmo"},
+            {"crmMedico":"2","nmMedico":"Angelan","nmEspecialidade":"Psicologo"},
+            {"crmMedico":"3","nmMedico":"Briann" ,"nmEspecialidade":"Pediatra"}
+    ]
+}
+>>>>>>> 1239b07494365c982214e1ab8095698f3dec55f1

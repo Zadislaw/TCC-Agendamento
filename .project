@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>AgendamentoHttpJax</name>
+=======
+	<name>projetoAgendamento</name>
+>>>>>>> 1239b07494365c982214e1ab8095698f3dec55f1
 	<comment></comment>
 	<projects>
 	</projects>
